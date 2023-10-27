@@ -1,0 +1,10 @@
+.column-container {
+    display: flex;
+    height: 70%;
+    width: 80%;
+    justify-content: space-between;
+}
+
+.age-column-container {
+    width: 22%;
+}
